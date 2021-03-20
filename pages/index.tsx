@@ -49,7 +49,7 @@ const HomePage: NextPage<IProps> = ({ randomJoke }) => {
         <Flex alignItems="flex-start" justifyContent="flex-start" w="100%">
           <MotionBox animate={{ opacity: [0, 1] }}>
             <Heading fontSize="3xl" fontWeight="semibold" w="full">
-              Don't Laugh Challange
+              Don't Laugh Challenge
             </Heading>
           </MotionBox>
         </Flex>
