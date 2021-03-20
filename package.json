@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/UrduX/do-not-laugh-challange.git",
   "author": "Eren BALCI <erenbalci3939@gmail.com>",
-  "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
